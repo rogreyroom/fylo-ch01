@@ -20,5 +20,5 @@ h2,
 h3,
 h4 {
   font-family: map-get($fonts, ff-header);
-  font-weight: map-get($fonts, fw-semi-bold);
+  font-weight: map-get($fonts, fw-bold);
 }
